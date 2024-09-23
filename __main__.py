@@ -1,5 +1,5 @@
-import dyememorycx.simulation as sim
-import dyememorycx.dye_io as dio
+import src.dyememorycx.simulation as sim
+import src.dyememorycx.dye_io as dio
 
 import multiprocessing as mp
 import numpy as np

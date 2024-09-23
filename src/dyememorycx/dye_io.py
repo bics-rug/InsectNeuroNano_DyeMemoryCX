@@ -1,4 +1,4 @@
-import dyememorycx.dye as dye
+import src.dyememorycx.dye as dye
 
 import scipy.optimize as so
 import matplotlib.pyplot as plt

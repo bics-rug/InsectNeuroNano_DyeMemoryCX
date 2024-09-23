@@ -1,5 +1,5 @@
-import dyememorycx._cx_weights as wt
-import dyememorycx.dye as dye
+import src.dyememorycx._cx_weights as wt
+import src.dyememorycx.dye as dye
 
 import numpy as np
 import scipy.special as ss

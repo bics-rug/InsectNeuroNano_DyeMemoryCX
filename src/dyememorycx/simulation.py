@@ -1,4 +1,4 @@
-import dyememorycx.cx as cx
+import src.dyememorycx.cx as cx
 
 import matplotlib.pyplot as plt
 import loguru as lg
